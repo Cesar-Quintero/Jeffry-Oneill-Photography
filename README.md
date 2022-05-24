@@ -1,4 +1,4 @@
-# Donut King : <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">Visit Here</a>
+# Jeffry Oneil Photography : <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">
 <img src="RMimages/JefferyOneill.jpg" width="100%" alt="Jeffry Oneil Photography"/>
